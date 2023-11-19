@@ -1,0 +1,25 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Animal Crafting",
+        "description": "Animal Crafting Behavior Pack",
+        "uuid": "adce9d28-5b63-4f96-8e37-238d629eadae",
+        "version": [1,0,0],
+        "min_engine_version": [1,20,41
+        ]
+    },
+    "metadata": {
+        "authors": [
+            "kirbycope"
+        ]
+    },
+    "modules": [
+        {
+            "description": "Behavior",
+            "type": "data",
+            "uuid": "81fc240d-7ac2-4513-99e6-9f86939a2e77",
+            "version": [1,0,0
+            ]
+        }
+    ]
+}
